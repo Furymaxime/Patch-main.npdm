@@ -79,4 +79,4 @@ Ce script est distribué sous licence MIT. Vous êtes libre de l'utiliser, de le
 
 ---
 
-Si vous avez des questions ou des suggestions d'amélioration, n'hésitez pas à me contacter ! 😊
+Si vous avez des questions ou des suggestions d'amélioration, n'hésitez pas à me contacter 😊
