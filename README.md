@@ -35,7 +35,7 @@ Ce script Node.js permet d’appliquer des modifications précises à un fichier
 1. Placez le fichier `main.npdm` dans un dossier `exefs` situé dans le même répertoire que le script.
 2. Exécutez le script avec Node.js :
    ```bash
-   node script.js
+   node Patch_main.npdm_Switch_Atmosphere_V1.8.0PR.js
    ```
 3. Si le fichier `main.npdm` est trouvé, le patch sera appliqué aux positions suivantes :
    - Offset `0x332` (818 en décimal)
